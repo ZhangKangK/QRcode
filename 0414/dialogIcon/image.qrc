@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/BMP.ico</file>
+        <file>icon/clouddocs.ico</file>
+        <file>icon/code.png</file>
+        <file>icon/COMMON.ico</file>
+        <file>icon/excel.png</file>
+        <file>icon/exe.png</file>
+        <file>icon/GIF.ico</file>
+        <file>icon/JPG.ico</file>
+        <file>icon/music.png</file>
+        <file>icon/PDF.ico</file>
+        <file>icon/pdf.png</file>
+        <file>icon/pic.png</file>
+        <file>icon/PNG.ico</file>
+        <file>icon/ppt.png</file>
+        <file>icon/PSD.ico</file>
+        <file>icon/psf.png</file>
+        <file>icon/text.png</file>
+        <file>icon/TIF.ico</file>
+        <file>icon/unknow.png</file>
+        <file>icon/video.png</file>
+        <file>icon/word.png</file>
+        <file>icon/zip.png</file>
+        <file>dialog.cpp</file>
+        <file>dialog.h</file>
+        <file>main.cpp</file>
+        <file>icon/pigxi.png</file>
+    </qresource>
+</RCC>
