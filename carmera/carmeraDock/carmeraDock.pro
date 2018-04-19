@@ -30,3 +30,6 @@ SOURCES += main.cpp\
 HEADERS  += cameradock.h
 
 FORMS    += cameradock.ui
+
+RESOURCES += \
+    icon.qrc

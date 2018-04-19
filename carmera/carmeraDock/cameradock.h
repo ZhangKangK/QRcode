@@ -4,6 +4,8 @@
 #include <QMainWindow>
 #include <QDockWidget>
 #include <QToolBar>
+#include <QAction>
+
 #include <QCamera>
 #include <QCameraImageCapture>
 #include <QCameraViewfinder>
@@ -28,7 +30,13 @@ private:
 
     QDockWidget *cameraWidget;
 
-    QToolBar *toolBar;
+    QToolBar *fileToolBar;
+
+    QAction *newAct;
+    QAction *open;
+    QAction *Save;
+    QAction *saveAs;
+    QAction *exit;
 
     QCamera *camera;//系统摄像头设备
     QCameraViewfinder *cameraViewFinder;//摄像头取景器部件
