@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>pigxi.png</file>
+    </qresource>
+</RCC>
